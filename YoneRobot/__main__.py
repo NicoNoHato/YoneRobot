@@ -74,7 +74,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-`Hai aku Ohto Ai [😇](https://www.linkpicture.com/q/IMG_20210527_165347_421.jpg), Tugasku membantu di grup [AniReborn](https://www.linkpicture.com/q/IMG_20210527_165347_421.jpg)`
+Hai aku Ohto Ai [😇](https://www.linkpicture.com/q/IMG_20210527_165347_421.jpg), Tugasku membantu di grup [AniReborn](https://www.linkpicture.com/q/IMG_20210527_165347_421.jpg)
 \n ketik /help untuk bantuannya ya."""
 
 buttons = [
